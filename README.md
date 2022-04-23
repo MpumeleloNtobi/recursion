@@ -1,3 +1,3 @@
 # Recursion
 
-🙂 The best way to understand recursions is to understand recursions.
+The best way to understand recursions is to understand recursions.
